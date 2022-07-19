@@ -1,0 +1,62 @@
+body{
+    background-color: 9DD6DF;
+}
+#myself {
+    font-family: dancing script;
+    font-weight: bold;
+    text-align: start;
+    width: 200; height: 225;
+    background-color: bisque;
+    border: 0px solid #A10035;
+    border-radius: 10px;
+    box-shadow: 10px 15px 20px #A10035;
+    margin: 25px;
+    padding-left: 20px; padding-right: 10px; padding-top: 0.1;
+    transition: 0.5s;
+}  
+
+#myself:hover {
+    background-color: black;
+    color: bisque;
+    box-shadow: 10px 15px 20px #E60965;
+}
+
+#college {
+    font-family: satisfy;
+    text-align: start;
+    width: 250; height: 280;
+    background-color: #C689C6;
+    border: 0px solid #A10035;
+    border-radius: 10px;
+    box-shadow: 10px 15px 20px #1F4690;
+    margin-top: 60px; margin-left: 150;
+    padding-left: 20px; padding-right: 10px; padding-top: 0.1;
+    transition: 00.5s;
+}  
+
+#college:hover {
+    background-color: black;
+    color: #C689C6 ;
+    box-shadow: 10px 15px 20px #E60965;
+}
+
+#bioinformatics {
+    font-family: Yesteryear,cursive;
+    text-align: start;
+    font-size: 16.;
+    width: 287; height: 270;
+    background-color: #EC9B3B;
+    border: 0px solid #A10035;
+    border-radius: 10px;
+    box-shadow: 10px 15px 20px #1A4D2E;
+    margin-top: 60px; margin-left: 350; margin-bottom: 25px;
+    padding-left: 20px; padding-right: 10px; padding-top: 0.1;
+    transition: 00.5s;
+}
+
+#bioinformatics:hover{
+    background-color: black;
+    color: #EC9B3B ;
+    box-shadow: 10px 15px 20px #E60965;
+}
+
